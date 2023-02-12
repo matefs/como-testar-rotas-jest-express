@@ -16,7 +16,7 @@ node index.js
 
 #### Pega todos os itens (só existe um por padrão)
 
-```http
+``` 
   GET / 
 ```
 
