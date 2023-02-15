@@ -2,6 +2,7 @@
 # Como testar rotas com JEST e Express
 
 Projeto básico sobre como fazer um teste unitário de uma rota do express utilizando a biblioteca JEST do node.js.
+![Imagem do WhatsApp de 2023-02-12 à(s) 17 11 38](https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg)
 
 
 ## API Reference
