@@ -33,10 +33,10 @@ Para executar a API, siga as etapas abaixo:
 1. Certifique-se de ter o **Node.js** e o npm (ou yarn) instalados em seu sistema.
 2. No terminal, navegue até o diretório raiz do projeto.
 3. Execute o seguinte comando:
-
 ```bash
  node index.js
 ```
+4. Acesse http://localhost:3000 no seu navegador
 
 ### **Rotas e Métodos**
 
