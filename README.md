@@ -1,5 +1,4 @@
-# Readme teste expresss jest
-
+ 
 # **Como testar rotas com JEST e Express**
 
 Este repositório contém um projeto básico que demonstra como realizar testes unitários de rotas no Express utilizando a biblioteca JEST do Node.js.
@@ -18,15 +17,13 @@ Para executar os testes, siga as etapas abaixo:
 2. No terminal, navegue até o diretório raiz do projeto.
 3. Execute um dos seguintes comandos para rodar os testes:
 
-```
-
+```bash
 npm run test
-
 ```
 
 ou
 
-```
+```bash
 yarn test
 ```
 
@@ -40,7 +37,7 @@ Para executar a API, siga as etapas abaixo:
 2. No terminal, navegue até o diretório raiz do projeto.
 3. Execute o seguinte comando:
 
-```
+```bash
  node index.js
 ```
 
