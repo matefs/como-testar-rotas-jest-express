@@ -1,35 +1,59 @@
+# Readme teste expresss jest
 
-# Como testar rotas com JEST e Express
+# **Como testar rotas com JEST e Express**
 
-Projeto básico sobre como fazer um teste unitário de uma rota do express utilizando a biblioteca JEST do Node.js.
-![Imagem do WhatsApp de 2023-02-12 à(s) 17 11 38](https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg)
+Este repositório contém um projeto básico que demonstra como realizar testes unitários de rotas no Express utilizando a biblioteca JEST do Node.js.
 
+![https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg](https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg)
 
-## API Reference
+## **Referência da API**
 
-### Rodar somente o express
-```bash
-node index.js
+...
+
+## **Como executar os testes**
+
+Para executar os testes, siga as etapas abaixo:
+
+1. Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema.
+2. No terminal, navegue até o diretório raiz do projeto.
+3. Execute um dos seguintes comandos para rodar os testes:
+
 ```
-### Rodar o teste 
-1. ` npm run test  `  ou
-2. ` yarn test `
 
-#### Pega todos os itens (só existe um por padrão)
+npm run test
 
-``` 
-  GET / 
 ```
 
+ou
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-|  | `none` | **NOT Required** |
+```
+yarn test
+```
 
+Observação: Não é necessário ter a API em execução para executar os testes.
 
+## **Como executar a API**
 
+Para executar a API, siga as etapas abaixo:
 
-## Reconhecimentos
+1. Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema.
+2. No terminal, navegue até o diretório raiz do projeto.
+3. Execute o seguinte comando:
 
- - [Tutorial](https://www.youtube.com/watch?v=HzjHDsoHwB4)
- 
+```
+ node index.js
+```
+
+### **Rotas e Métodos**
+
+| Rota | Método | Descrição |
+| --- | --- | --- |
+| GET / | GET | Retorna a mensagem: {message: "Hello world!"} |
+
+**Parâmetros:**
+
+- Nenhum parâmetro necessário.
+
+## **Reconhecimentos**
+
+- **[Tutorial](https://www.youtube.com/watch?v=HzjHDsoHwB4)**
