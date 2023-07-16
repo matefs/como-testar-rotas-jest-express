@@ -24,7 +24,7 @@ ou
 yarn test
 ```
 
-Observação: Não é necessário ter a API em execução para executar os testes.
+**Observação: Não é necessário ter a API em execução para executar os testes.**
 
 ## **Como executar a API**
 
