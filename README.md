@@ -5,9 +5,7 @@ Este repositório contém um projeto básico que demonstra como realizar testes 
 
 ![https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg](https://user-images.githubusercontent.com/30128774/219001841-2912b65b-37b1-4930-8284-1df55cbfc6ed.jpg)
 
-## **Referência da API**
 
-...
 
 ## **Como executar os testes**
 
